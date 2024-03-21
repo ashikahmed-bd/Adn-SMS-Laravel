@@ -1,0 +1,15 @@
+{
+    "name": "ashik/adn-laravel",
+    "autoload": {
+        "psr-4": {
+            "Ashik\\AdnLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ashik Ahmed",
+            "email": "md.ashikahmed@outlook.com"
+        }
+    ],
+    "require": {}
+}
